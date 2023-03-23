@@ -1,4 +1,4 @@
-3D Shape Part Segmentation
+A Human Joint Recognize Approach with Lidar Point in Nursing Robot
 ============================
 <img src="../figure/HumanPoseEstimation.png" width="500" />
 
@@ -14,7 +14,7 @@
 Download and HRHP Dataset: [HRHP](https://1drv.ms/f/s!Au5BcTkJGU2pklK7ELBlAELQl9dH?e=GjwA5Z) 
 ``` 
 mkdir -p data
-ln -s /path to shapenet part/data/human
+ln -s /path to PSPE/data/human
 ```
 
 ## Usage
@@ -41,4 +41,4 @@ ln -s /path to shapenet part/data/human
 ## Contact
 
 You are welcome to send pull requests or share some ideas with us. Contact information: Huanyu Deng(2021935717@qqhru.edu.cn) .
-
+The project and HRHP dataset is still updating.
