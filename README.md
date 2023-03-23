@@ -11,7 +11,7 @@ A Human Joint Recognize Approach with Lidar Point in Nursing Robot
   PyTorch>=1.5.0, Python>=3, CUDA>=10.1, tensorboardX, tqdm, pyYaml
 
 ### Dataset
-Download and HRHP Dataset: [HRHP](https://1drv.ms/f/s!Au5BcTkJGU2pklK7ELBlAELQl9dH?e=GjwA5Z) 
+Download the HRHP Dataset: [HRHP](https://1drv.ms/f/s!Au5BcTkJGU2pklK7ELBlAELQl9dH?e=GjwA5Z) 
 ``` 
 mkdir -p data
 ln -s /path to PSPE/data/human
